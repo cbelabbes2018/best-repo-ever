@@ -1,0 +1,2 @@
+1 - this is a test file edited with vim
+2 - it was created to test pull request.
